@@ -1,8 +1,8 @@
 # Financial Aid Thesis Support Portfolio
 
-This repository is a public portfolio reconstruction of financial-aid analytics work I built for a graduate thesis project. The original working repository, private data, generated artifacts, and thesis submission package are not included here.
+This repository contains my software and analysis contributions to a financial-aid graduate thesis project authored by another student. I was not the thesis author; my role was to build the data-cleaning pipeline, validation logic, model-safe feature engineering, reproducibility tests, modeling workflows, and decision-support analysis.
 
-The public version focuses on the technical work: data cleaning, schema validation, model-safe feature engineering, reproducibility tests, eligibility modeling, aid-percentage modeling, purchasing-power sensitivity analysis, and decision-support framing.
+The original working repository, private data, generated artifacts, and thesis submission package are not included here. This public version focuses on the technical work that is suitable for portfolio review.
 
 ## Current Status
 
@@ -16,9 +16,9 @@ This repo is ready to publish as a sanitized portfolio snapshot.
 
 ## Project Context
 
-This project began as software and analytical notebook development for a graduate thesis collaboration. My role focused on building the data-cleaning pipeline, validation logic, model-safe feature engineering, reproducibility tests, and financial-aid modeling workflows.
+This project began as software and analytical notebook development for a graduate thesis collaboration. The thesis itself was authored and submitted by another student. My contribution was the engineering and analytical implementation behind the data pipeline, validation suite, model-safe feature design, modeling notebooks, and decision-support workflow.
 
-The original dataset and generated outputs are not included because they contained confidential financial-aid records and row-level information. The original materials were delivered as notebooks for thesis submission rather than preserved as a complete public software repository.
+The original dataset and generated outputs are not included because they contained confidential financial-aid records and row-level information. The thesis submission materials are also excluded because they are collaborator-owned academic work. The original materials were delivered as notebooks for thesis submission rather than preserved as a complete public software repository.
 
 This public repository reconstructs the parts suitable for portfolio review while excluding private data, trained artifacts, generated outputs, and thesis submission materials. The goal is to show the engineering and analytical approach, not to reproduce or redistribute the original thesis package.
 
