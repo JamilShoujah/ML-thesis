@@ -1,0 +1,24 @@
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Private or generated project material
+data/private/
+data/raw/
+data/cleaned/
+cleaned data/
+artifacts/*
+!artifacts/README.md
+reports/
+*.joblib
+*.pkl
+*.pickle
+*.xlsx
+*.xls
+
+# Local notebook and model outputs
+notebooks/.ipynb_checkpoints/
+*.html
